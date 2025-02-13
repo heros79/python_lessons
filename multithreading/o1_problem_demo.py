@@ -25,5 +25,5 @@ def count_three_sum(lst: List[int]):
 
 if __name__ == '__main__':
     print('Started main')
-    lst = read_ints('input.txt')
+    lst = read_ints('1Kints.txt')
     count_three_sum(lst)
